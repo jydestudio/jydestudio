@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi👋
+I'm a passionate GIS and Python developer.
 
-<!--
-**jydestudio/jydestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently strengthening my skills in GIS programming with Python and excited to soon expand into JavaScript. My interests span GIS, Python development, WebGIS, web development, and related technologies.
 
-Here are some ideas to get you started:
+- 👯 I am open to projects in GIS and GIS programming to strengthen my knowledge and gain valuable insights from the perspectives of other professionals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌏 Driven by a desire to create innovative geospatial solutions, I continuously explore new advancements in the field. I look forward to connecting with professionals in GIS, remote sensing, and related domains to exchange ideas and collaborate on impactful projects.
+
+- 💬 Ask me about any Python and GIS
+- 📫 How to reach me: https://www.linkedin.com/in/lawrence-fatoki
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to learn about how the brain and the mind works 🧠
